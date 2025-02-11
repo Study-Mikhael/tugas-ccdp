@@ -1,0 +1,3 @@
+nama    : MIKHAEL
+nim     : 10121089
+kelas   : IF 3
